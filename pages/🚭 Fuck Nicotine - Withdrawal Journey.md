@@ -17,27 +17,35 @@
 		- I am experiencing cravings even as I'm vaping.
 		- Minor headaches and the occasional loss/difficulty of focus.
 	- TODO 48 Hours
+	  collapsed:: true
 	  DEADLINE: <2025-01-18 Sat>
 		-
 	- TODO 72 Hours
+	  collapsed:: true
 	  DEADLINE: <2025-01-19 Sun>
 		-
 	- TODO Week 1 ✨
+	  collapsed:: true
 	  DEADLINE: <2025-01-23 Thu>
 		- My system should be clean of most nicotine by now. I'm almost out of this trap for good.
 	- TODO Week 2
+	  collapsed:: true
 	  DEADLINE: <2025-01-30 Thu>
 		-
 	- TODO Week 3
+	  collapsed:: true
 	  DEADLINE: <2025-02-06 Thu>
 		-
 	- TODO Month 1 🥳
+	  collapsed:: true
 	  DEADLINE: <2025-02-16 Sun>
 		-
 	- TODO Month 2 🏆
+	  collapsed:: true
 	  DEADLINE: <2025-03-16 Sun>
 		-
 	- TODO Month 3 👑
+	  collapsed:: true
 	  DEADLINE: <2025-04-16 Wed>
 		-
 -
