@@ -16,7 +16,7 @@
 		- Vaping causes this weird dryness feeling without the satisfaction of nicotine. Feels so weird.
 		- I am experiencing cravings even as I'm vaping.
 		- Minor headaches and the occasional loss/difficulty of focus.
-	- TODO 48 Hours
+	- LATER 48 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-18 Sat>
 		-
