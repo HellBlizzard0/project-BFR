@@ -1,12 +1,12 @@
 - I don't want this to be a dairy for my own life but since I need to do this to prevent him from getting addicted...
 - I don't want this to be a dairy for my own life but since I need to do this to prevent him from getting addicted...
-- # 🏃‍♂️Day 1 of No Nicotine
-  heading:: 1
+- ## Method used
+  heading:: 2
+	- 0 nicotine flavors
+		- I think I can handle quitting vaping after the fact. I just need to cut my nicotine intake first.
+- ## 🏃‍♂️Day 1 of No Nicotine
+  collapsed:: true
 	- Began in  [[Jan 16th, 2025]]
-	- ## Method used
-	  heading:: 2
-		- 0 nicotine flavors
-			- I think I can handle quitting vaping after the fact. I just need to cut my nicotine intake first.
 - # 🚩Milestones
   heading:: 1
 	- DONE 24 Hours
@@ -16,14 +16,22 @@
 		- Vaping causes this weird dryness feeling without the satisfaction of nicotine. Feels so weird.
 		- I am experiencing cravings even as I'm vaping.
 		- Minor headaches and the occasional loss/difficulty of focus.
-	- LATER 48 Hours
+	- DONE 48 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-18 Sat>
+		- I am eating so much and drinking all kinds of sweets. Definitely going to gain a few KGs by the end of this month.
+		- Loss of focus decreased a little.
+		- I had a minor headache by the end of the day.
+		- Minor stumbling over words and and using completely unrelated words like "We're going to the <ins>meter</ins>"
 		-
-	- TODO 72 Hours
+	- DONE 72 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-19 Sun>
-		-
+		- Cravings have decreased noticeably. But I still had a thought of buying a 3mg juice.
+		- Diet is still bad. luckily, this is just the weekend and I can regulate myself a bit better at work.
+		- No headaches.
+		- I haven't talked much so I could not examine my speech.
+		- I am feeling a bit better.
 	- TODO Week 1 ✨
 	  collapsed:: true
 	  DEADLINE: <2025-01-23 Thu>
