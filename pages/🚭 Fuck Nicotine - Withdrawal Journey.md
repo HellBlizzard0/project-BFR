@@ -9,14 +9,14 @@
 	- Began in  [[Jan 16th, 2025]]
 - # 🚩Milestones
   heading:: 1
-	- DONE 24 Hours
+	- [-] 🔽 24 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-17 Fri>
 		- Drank 3 cups of karak tea and a paper cup of sprite. My sugar diet is currently offline.
 		- Vaping causes this weird dryness feeling without the satisfaction of nicotine. Feels so weird.
 		- I am experiencing cravings even as I'm vaping.
 		- Minor headaches and the occasional loss/difficulty of focus.
-	- DONE 48 Hours
+	- [-] 🔽 48 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-18 Sat>
 		- I am eating so much and drinking all kinds of sweets. Definitely going to gain a few KGs by the end of this month.
@@ -24,7 +24,7 @@
 		- I had a minor headache by the end of the day.
 		- Minor stumbling over words and and using completely unrelated words like "We're going to the <ins>meter</ins>"
 		-
-	- DONE 72 Hours
+	- [-] 🔽 72 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-19 Sun>
 		- Cravings have decreased noticeably. But I still had a thought of buying a 3mg juice.
@@ -32,27 +32,27 @@
 		- No headaches.
 		- I haven't talked much so I could not examine my speech.
 		- I am feeling a bit better.
-	- TODO Week 1 ✨
+	- [ ] 🔽  Week 1 ✨
 	  collapsed:: true
 	  DEADLINE: <2025-01-23 Thu>
 		- My system should be clean of most nicotine by now. I'm almost out of this trap for good.
-	- TODO Week 2
+	- [ ] 🔽  TODO Week 2
 	  collapsed:: true
 	  DEADLINE: <2025-01-30 Thu>
 		-
-	- TODO Week 3
+	- [ ] 🔽 TODO Week 3
 	  collapsed:: true
 	  DEADLINE: <2025-02-06 Thu>
 		-
-	- TODO Month 1 🥳
+	- [ ] 🔽 TODO Month 1 🥳
 	  collapsed:: true
 	  DEADLINE: <2025-02-16 Sun>
 		-
-	- TODO Month 2 🏆
+	- [ ] 🔽   TODO Month 2 🏆
 	  collapsed:: true
 	  DEADLINE: <2025-03-16 Sun>
 		-
-	- TODO Month 3 👑
+	- [ ] 🔽 TODO Month 3 👑
 	  collapsed:: true
 	  DEADLINE: <2025-04-16 Wed>
 		-
