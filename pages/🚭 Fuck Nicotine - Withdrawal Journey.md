@@ -11,7 +11,7 @@
 	- [-] 🔽 24 Hours
 	  collapsed:: true
 	  DEADLINE: <2025-01-17 Fri>
-		- Drank 3 cups of karak tea and a paper cup of sprite. My sugar diet is currently offline.
+		- Drank 3 cups of Karak tea and a paper cup of sprite. My sugar diet is currently offline.
 		- Vaping causes this weird dryness feeling without the satisfaction of nicotine. Feels so weird.
 		- I am experiencing cravings even as I'm vaping.
 		- Minor headaches and the occasional loss/difficulty of focus.
