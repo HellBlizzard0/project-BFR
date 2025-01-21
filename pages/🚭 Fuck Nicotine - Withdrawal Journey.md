@@ -5,7 +5,7 @@
 		- I think I can handle quitting vaping after the fact. I just need to cut my nicotine intake first.
 - ## 🏃‍♂️Day 1 of No Nicotine
   collapsed:: true
-	- Began in  [[Jan 16th, 2025]]
+	- Began in  [[2025_01_16]]
 - # 🚩Milestones
   heading:: 1
 	- [-] 🔽 24 Hours
