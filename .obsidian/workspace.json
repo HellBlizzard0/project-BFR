@@ -11,14 +11,10 @@
             "id": "ea65af85fb815446",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2025_01_21.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025_01_21"
+              "title": "New tab"
             }
           }
         ]
@@ -175,9 +171,38 @@
   },
   "active": "ea65af85fb815446",
   "lastOpenFiles": [
-    "journals/2025_01_20.md",
-    "journals/2025_01_21.md",
+    "Untitled.canvas",
+    "Tasks.md",
+    "Task Manager.md",
+    "pages/🚭 Fuck Nicotine - Withdrawal Journey.md",
+    "Attachments/Images/Pasted image 20250122103303.png",
+    "Attachments/Images/Pasted image 20250122102936.png",
+    "Attachments/Images/Pasted image 20250122110208.png",
+    "Attachments/Images/Pasted image 20250123152255.png",
+    "Template/Jira Issue.md",
+    "Progress/BMQ Renew Progress.md",
+    "Progress/New BMQ License TaskManagement.md",
     "journals/2025_01_19.md",
+    "Daily/2025-01-19.md",
+    "Daily/2025-01-23.md",
+    "Daily/2025-01-20.md",
+    "Daily/2025-01-21.md",
+    "Code Documentation/BPT - New Workflow Management.md",
+    "journals/2025_01_21.md",
+    "wd.html",
+    "Template",
+    "Progress",
+    "Daily/2025-01-22.md",
+    "Daily",
+    "Code Documentation/Archive/Experiment Showing All Data as List of fields.md",
+    "Code Documentation/Archive",
+    "Code Documentation",
+    "Backlog/New BMQ License TaskManagement.md",
+    "Backlog/BMQ Renew Backlog.md",
+    "Backlog",
+    "Attachments/Images",
+    "Attachments",
+    "journals/2025_01_20.md",
     "journals/2025_01_16.md",
     "journals/2025_01_15.md",
     "journals/2025_01_14.md",
@@ -185,14 +210,6 @@
     "journals/2025_01_08.md",
     "journals/2025_01_07.md",
     "journals/2025_01_06.md",
-    "journals/2025_01_05.md",
-    "journals/2025_01_04.md",
-    "Untitled.canvas",
-    "Task Manager.md",
-    "pages/🚭 Fuck Nicotine - Withdrawal Journey.md",
-    "Jan 16th, 2025.md",
-    "Untitled",
-    "journals/2025-01-20.md",
-    "2025-01-20.md"
+    "Untitled"
   ]
 }
