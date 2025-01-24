@@ -35,6 +35,9 @@
 	  collapsed:: true
 	  DEADLINE: <2025-01-23 Thu>
 		- My system should be clean of most nicotine by now. I'm almost out of this trap for good.
+		- I just need to fill in the gap that smoking used to occupy.
+			- Sweets and drinks are my temporary option.
+			- I need to find a more permanent, healthy, solution.
 	- [ ] 🔽  TODO Week 2
 	  collapsed:: true
 	  DEADLINE: <2025-01-30 Thu>
